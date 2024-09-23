@@ -1,5 +1,4 @@
 # markdown-new
-# markdown-new
 # Heading 1
 Hi! I'm your first Markdown file in ***StackEdit***. If you want to learn about *StackEdit*, you can read me. If you want to play with ___Markdown___, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar. Press `enter`.
 Markdown has foll features:
